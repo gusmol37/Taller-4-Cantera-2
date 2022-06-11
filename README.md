@@ -20,3 +20,5 @@ A partir de la clase anterior, y mediante herencia cree nuevas clases que permit
 Ejercicio #6
 Una interesante clase predefinida en el lenguaje java es la clase Vector, que implemente la abstracción "array dinámico". Revise la clase y úsela (en ficheros diferentes) para realizar un programa que lea números del teclado hasta que se introduce dos veces seguidas el mismo número. Entonces el programa muestra todos los números introducidos y termina.
 
+Se hace ampliación de la documentación del código y se suben estos archivos que registran los cambios. Solo se modificó la documentación. El código no fue modificado y permanece igual que en la fecha original en que fueron entregados.
+
